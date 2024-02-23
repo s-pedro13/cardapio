@@ -1,0 +1,25 @@
+#cabecalho {
+  background-color: #f7eeee;
+  padding: 10px;
+  text-align: center;
+}
+ 
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+#menu ul li {
+  display: inline;
+  margin-right: 20px;
+}
+ 
+#menu ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+img {
+  size-adjust: 10px;
+}

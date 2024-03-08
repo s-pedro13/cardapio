@@ -6,6 +6,7 @@
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Referências](#referências)
 * [Autores](#autores)
 
 #   Projeto de criação de cardápio
@@ -24,6 +25,10 @@ Esse projeto foi essencial para aprimorar nossas habilidades técnicas em HTML e
 - HTML 5
 - Github
 - VS Studio Code
+- YouTube
+
+## Referências ☀️
+- https://github.com/CrislaineLuana - Um modelo para fazer um bom css e html
 
 ## Autores 🌦️
 - https://github.com/s-pedro13
